@@ -6,12 +6,12 @@
       android:versionName="1.1">
     <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="26"/>
     <!-- Set your application name here -->
-    <application android:label="Black Ops"
+    <application android:label="Black Operations"
 		 android:debuggable="false"
 		 android:icon="@drawable/logo_xash_blackops">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
-                  android:label="Black Ops"
+                  android:label="Black Operations"
 			android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
